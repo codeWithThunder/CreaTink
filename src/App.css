@@ -1,0 +1,153 @@
+
+.App{
+  background-color: black;
+}
+/* NavBar Ul Bottom Content */
+#navBottomContent1{
+  content: "";
+  width: 50px;
+  height: 2px;
+  top: 45px;
+  display: flex;
+  position: absolute;
+  background-color: #ff0099ed;
+  transition: 0.3s;
+}
+#navBottomContent2{
+  content: "";
+  width: 70px;
+  height: 2px;
+  top: 45px;
+  display: flex;
+  position: absolute;
+  background-color: #c5c5c5;
+  transition: 0.3s;
+}
+#navBottomContent3{
+  content: "";
+  width: 100px;
+  height: 2px;
+  top: 45px;
+  display: flex;
+  position: absolute;
+  background-color: #c5c5c5;
+  transition: 0.3s;
+}
+#navBottomContent4{
+  content: "";
+  width: 50px;
+  height: 2px;
+  top: 45px;
+  display: flex;
+  position: absolute;
+  background-color: #c5c5c5;
+  transition: 0.3s;
+}
+#navBottomContent5{
+  content: "";
+  width: 87px;
+  height: 2px;
+  top: 45px;
+  display: flex;
+  position: absolute;
+  background-color: #c5c5c5;
+  transition: 0.3s;
+}
+#navBottomContent6{
+  content: "";
+  width: 55px;
+  height: 2px;
+  top: 45px;
+  display: flex;
+  position: absolute;
+  background-color: #c5c5c5;
+  transition: 0.3s;
+}
+/* NavBar Ul Bottom Text */
+#contentHoverEffect1{
+  transition: 0.3s;
+  color: #ff0099ed;
+  margin-right: 2.5rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+#contentHoverEffect2{
+  color: white;
+  transition: 0.3s;
+  margin-right: 2.5rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+#contentHoverEffect3{
+  color: white;
+  transition: 0.3s;
+  margin-right: 2.5rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+#contentHoverEffect4{
+  color: white;
+  transition: 0.3s;
+  margin-right: 2.5rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+#contentHoverEffect5{
+  color: white;
+  transition: 0.3s;
+  margin-right: 2.5rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+#contentHoverEffect6{
+  color: white;
+  transition: 0.3s;
+  margin-right: 2.5rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+/* NavBar Ul Bottom Content Hover Effect*/
+/* 1 */
+#contentHoverEffect1:hover{
+  color: #ff0099ed;
+}
+#contentHoverEffect1:hover #navBottomContent1{
+  background-color: #ff0099ed;
+}
+/* 2 */
+#contentHoverEffect2:hover{
+  color: #ff0099ed;
+}
+#contentHoverEffect2:hover #navBottomContent2{
+  background-color: #ff0099ed;
+}
+/* 3 */
+#contentHoverEffect3:hover{
+  color: #ff0099ed;
+}
+#contentHoverEffect3:hover #navBottomContent3{
+  background-color: #ff0099ed;
+}
+/* 4 */
+#contentHoverEffect4:hover{
+  color: #ff0099ed;
+}
+#contentHoverEffect4:hover #navBottomContent4{
+  background-color: #ff0099ed;
+}
+/* 5 */
+#contentHoverEffect5:hover{
+  color: #ff0099ed;
+}
+#contentHoverEffect5:hover #navBottomContent5{
+  background-color: #ff0099ed;
+}
+/* 6 */
+#contentHoverEffect6:hover{
+  color: #ff0099ed;
+}
+#contentHoverEffect6:hover #navBottomContent6{
+  background-color: #ff0099ed;
+}
+
